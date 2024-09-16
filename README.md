@@ -3,7 +3,7 @@ Mod ini dibuat bertujuan untuk dipakai mabar bareng temen gw, boleh aja kalo mau
 Gw modif mod ini agar bisa di gunakan dengan bahasa Indonesia, dan mengurangi beberapa event biar gak terlalu rusuh untuk dipake buat challege di survival.
 
 ***Sebelum instalasi, pastikan sudah punya Minecraft Forge 1.19.2*** <br>
-Cara instalasi mod:
+Cara instalasi mod: <br>
 1. Download program dan mod nya dengan menekan tombol <>code berwarna hijau, lalu klik 'Download ZIP'
 2. File ZIP bisa di ekstrak dimana saja (contoh nya ekstrak di D:)
 3. Cut/copy file mcrecog-1.19.2.jar ke folder mods pada minecraft (kayak pasang mod seperti biasa lah tinggal taruh file .jar ke folder mods, biasanya di AppData\Roaming\.minecraft\mods)
