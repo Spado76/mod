@@ -6,7 +6,7 @@ Gw modif mod ini agar bisa di gunakan dengan bahasa Indonesia, dan mengurangi be
 ### Cara instalasi mod: ###
 1. Download program dan mod nya dengan menekan tombol <>code berwarna hijau, lalu klik 'Download ZIP'
 2. File ZIP bisa di ekstrak dimana saja (contoh nya ekstrak di D:)
-3. Cut/copy file mcrecog-1.19.2.jar ke folder mods pada minecraft (kayak pasang mod seperti biasa lah tinggal taruh file .jar ke folder mods, biasanya di AppData\Roaming\.minecraft\mods)
+3. Cut/copy file mcrecog-1.19.2.jar ke folder mods pada minecraft (kayak pasang mod seperti biasa lah tinggal taruh file .jar ke folder mods, biasanya di AppData\Roaming\minecraft\mods)
 4. Instal python (Buka command prompt, lalu ketik 'python' tidak memakai petik. Klo belum download python, otomatis akan membuka microsoft store, kalian bisa download python disitu) atau bisa download python disini https://www.python.org/downloads/
 5. Saat instal python, pastikan centang kotak bagian (Add Python 3.11 to PATH) lalu klik Install Now.
 6. Buka ulang command prompt baru (yang sebelumnya bisa dihapus)
