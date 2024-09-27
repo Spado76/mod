@@ -1,6 +1,6 @@
 # Minecraft Speech Recognition Mod
 Mod ini dibuat bertujuan untuk dipakai mabar bareng temen gw, boleh aja kalo mau kalian pakai. Mod aslinya dari sini: https://github.com/ketan-ryan/MCRecog/tree/1.19.2 <br>
-Gw modif mod ini agar bisa di gunakan dengan bahasa Indonesia, dan mengurangi beberapa event biar gak terlalu rusuh untuk dipake buat challege di survival.
+Gw modif mod ini agar bisa di gunakan dengan bahasa Indonesia, dan mengurangi beberapa event biar gak terlalu rusuh untuk dipake buat challenge di survival.
 
 ***Sebelum instalasi, pastikan sudah punya Minecraft Forge 1.19.2*** <br>
 ### Cara instalasi mod: ###
