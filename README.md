@@ -23,3 +23,4 @@ Trakteer: https://trakteer.id/firmancraft37/tip
 
 ## Gameplay Mod Bareng Temen
 [![NGOMONG KATA TERLARANG = MATI 😂 - MINECRAFT MOD](https://img.youtube.com/vi/K2iqFfkKK3c/0.jpg)](https://www.youtube.com/watch?v=K2iqFfkKK3c)
+[![Jangan Gunakan Kata-Kata Ini Jika Tidak Ingin Meledak!! 😂 - Minecraft Mods](https://img.youtube.com/vi/xozRIy_8AkE/0.jpg)](https://www.youtube.com/watch?v=xozRIy_8AkE)
